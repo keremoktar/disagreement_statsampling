@@ -816,9 +816,9 @@
   {
     "Domain": "Science",
     "Issue": "Antibiotic Bacterial",
-    "Item": "antibiotics are not effective against viral infections",
-    "Agree": 10,
-    "Disagree": 90,
+    "Item": "antibiotics are very effective against viral infections",
+    "Agree": 12,
+    "Disagree": 88,
     "Source": "https://www.pewtrusts.org/~/media/assets/2012/11/12/abxpollsummarypdf.pdf",
     "APA.Source": "Hart Research Associates And Public Opinion Strategies. (2012). Americans' knowledge of and attitudes toward antibiotic resistance: A report of findings from a national survey and two focus groups [Data Set]. https://www.pewtrusts.org/~/media/assets/2012/11/12/abxpollsummarypdf.pdf",
     "Disagreement Level": "high",
