@@ -528,7 +528,7 @@ var stimuli = [
     "X": 32,
     "Domain": "Science",
     "Issue": "Vaccine Benefits",
-    "Item": "vaccines have not mostly been a benefit to human health",
+    "Item": "vaccines have mostly not been a benefit to human health",
     "Agree": 31,
     "Disagree": 69,
     "Source": "https://carsey.unh.edu/publication/conspiracy-vs-science-a-survey-of-us-public-beliefs",
