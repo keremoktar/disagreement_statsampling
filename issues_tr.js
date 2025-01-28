@@ -1,4 +1,4 @@
-[
+var stimuli = [
   {
     "Domain": "Politics",
     "Domain_tr": "Politika",
